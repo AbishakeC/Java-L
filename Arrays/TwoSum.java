@@ -1,5 +1,5 @@
-import java.util.HashMap;
 import java.util.Arrays;
+import java.util.HashMap;
 
 class TwoSum {
 
@@ -24,7 +24,7 @@ class TwoSum {
     public static void main(String[] args) {
 
         int[] nums = {2, 7, 5, 11};
-        int target = 9;
+        int target = 79;
 
         int[] ans = twoSum(nums, target);
 
